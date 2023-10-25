@@ -2,6 +2,6 @@
   {
     "Version" : "1",
     "CanShowAd" : "no",
-    "ShowAdAfter" : "5",
+    "ShowAdAfter" : "5"
   }
 ]
